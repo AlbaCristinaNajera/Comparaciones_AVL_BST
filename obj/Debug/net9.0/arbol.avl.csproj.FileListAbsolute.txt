@@ -1,0 +1,14 @@
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.AssemblyInfoInputs.cache
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.AssemblyInfo.cs
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\bin\Debug\net9.0\arbol.avl.exe
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\bin\Debug\net9.0\arbol.avl.deps.json
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\bin\Debug\net9.0\arbol.avl.runtimeconfig.json
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\bin\Debug\net9.0\arbol.avl.dll
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\bin\Debug\net9.0\arbol.avl.pdb
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.dll
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\refint\arbol.avl.dll
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.pdb
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\arbol.avl.genruntimeconfig.cache
+C:\Users\50246\Desktop\arboles-avl\arbol.avl\obj\Debug\net9.0\ref\arbol.avl.dll
